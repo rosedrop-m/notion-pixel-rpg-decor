@@ -1,0 +1,5 @@
+interface:
+  display_name: "Notion Pixel RPG Decor"
+  short_description: "Create bright 16-bit RPG-style Notion covers and icons"
+  brand_color: "#73C64A"
+  default_prompt: "Use $notion-pixel-rpg-decor to create a themed Notion cover and icon set."
